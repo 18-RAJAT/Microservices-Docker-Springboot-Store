@@ -22,6 +22,7 @@ This project demonstrates the practical implementation of microservices architec
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
+   
 ### Core Microservices
 
 1. **Catalog Service**
