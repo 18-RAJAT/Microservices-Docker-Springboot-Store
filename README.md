@@ -12,7 +12,16 @@ This project demonstrates the practical implementation of microservices architec
 - Learn key microservices concepts like asynchronous messaging, resilience, and observability.
 
 ## Architecture
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p>
 
+![Image](https://github.com/user-attachments/assets/2cc4a081-b368-472b-b83a-0798b0dc5dd2)
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p>
 ### Core Microservices
 
 1. **Catalog Service**
